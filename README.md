@@ -16,3 +16,11 @@ optional arguments:
   -v, --verbose      increase verbosity
   -q, --quiet        decrease verbosity
 ```
+## Installation
+Navigate to directory of choice and download the neccessary files with the following command.
+```
+git clone https://github.com/trezar001/sitesifter.git
+```
+Use pip to install any missing dependencies.
+```
+pip install -r requirements.txt
